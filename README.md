@@ -1,2 +1,3 @@
 # JavaScriptProjects
-Practice projects in javascript
+Practice projects in javascript:
+Author - NirojTechie
