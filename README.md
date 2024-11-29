@@ -1,3 +1,3 @@
 # JavaScriptProjects
-Practice projects in javascript:
+Practice projects in javascript:<br>
 Author - NirojTechie
